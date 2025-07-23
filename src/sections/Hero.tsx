@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import {
-  IoDocumentTextOutline,
+  
   IoChatbubbleEllipsesOutline,
 } from "react-icons/io5";
 export default function Hero() {
@@ -64,10 +64,6 @@ export default function Hero() {
           </ul>
         </div>
         <div className="text-center w-full mt-7 md:mt-10 ">
-          <Button onClick={() => window.location.href = 'https://libyzxy0.com/Jan_Liby_Dela_Costa_Developer_Resume.pdf' } className="px-5 bg-white text-gray-900 text-md rounded-full mx-3 font-mono hover:bg-white hover:opacity-90 md:scale-150 md:mx-14">
-            <IoDocumentTextOutline className="mr-1 h-4 w-4" />
-            Resume
-          </Button>
           <Button onClick={() => window.location.href = '#contact'} className="px-5 bg-gray-900 text-white text-md rounded-full mx-3 font-mono md:scale-150 md:mx-14">
             <IoChatbubbleEllipsesOutline className="mr-1 h-4 w-4" />
             Contact
