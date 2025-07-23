@@ -1,6 +1,6 @@
 import * as React from "react";
 import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
-import { FaXTwitter } from "react-icons/fa6";
+
 import { HiOutlineMenuAlt3 } from "react-icons/hi";
 import {
   DropdownMenu,
