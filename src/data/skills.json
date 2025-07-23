@@ -24,14 +24,6 @@
     "icon": "logos:react"
   },
   {
-    "name": "Vue",
-    "icon": "logos:vue"
-  },
-  {
-    "name": "Nuxt",
-    "icon": "logos:nuxt-icon"
-  },
-  {
     "name": "Node.js",
     "icon": "skill-icons:nodejs-dark"
   },
@@ -44,20 +36,12 @@
     "icon": "logos:firebase"
   },
   {
-    "name": "Supabase",
-    "icon": "devicon:supabase"
-  },
-  {
     "name": "Tailwindcss",
     "icon": "skill-icons:tailwindcss-dark"
   },
   {
     "name": "Bootstrap",
     "icon": "logos:bootstrap"
-  },
-  {
-    "name": "ShadcnUI",
-    "icon": "simple-icons:shadcnui"
   },
   {
     "name": "Vercel",
@@ -86,5 +70,50 @@
   {
     "name": "Arduino",
     "icon": "skill-icons:arduino"
+  },
+  {
+    "name": "Google Colab",
+    "icon": "devicon:googlecolab"
+  },
+  {
+    "name": "Anaconda",
+    "icon": "devicon:anaconda"
+  },
+  {
+    "name": "Linux",
+    "icon": "devicon:kalilinux"
+  },
+  {
+    "name": "Docker",
+    "icon": "logos:docker-icon"
+  },
+  {
+    "name": "Flask",
+    "icon": "cib:flask"
+  },
+  {
+    "name": "Django",
+    "icon": "material-icon-theme:django"
+  },
+  {
+    "name": "Django",
+    "icon": "devicon:leetcode"
+  },
+  {
+    "name": "Kaggle",
+    "icon": "devicon:kaggle"
+  },
+  {
+    "name": "MySQL",
+    "icon": "devicon:mysql"
+  },
+  {
+    "name": "SQLite3",
+    "icon": "devicon:sqlite"
+  },
+  {
+    "name": "Google Dev Tools",
+    "icon": "logos:google-developers"
   }
+  
 ]

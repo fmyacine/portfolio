@@ -13,13 +13,12 @@ export default function Experience() {
           <div className="h-1 w-14 rounded-full bg-gradient-to-r from-sky-200 to-blue-400 md:w-20 md:h-2"></div>
         </header>
         <div className="mx-6 pt-8 md:mx-10">
-          <TimelineItem title="Freelancing">
-            One year freelancing as a web developer, navigating projects and
-            relishing the freedom of self-employment.
+          <TimelineItem title="Djezzy Internship">
+          AI-focused backend intern at Djezzy, where I built data pipelines and integrated machine learning models to predict client behavior from real telecom data.
           </TimelineItem>
-          <TimelineItem title="<:">
-            Please consider hiring me so that I can gain valuable experience in
-            the field.
+          <TimelineItem title="Freelancing">
+            One year freelancing as a web developer, navigating projects, Providing IT consultations and
+            relishing the freedom of self-employment.
           </TimelineItem>
         </div>
       </section>

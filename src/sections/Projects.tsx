@@ -1,11 +1,9 @@
 import Project from "@/components/ProjectCard";
-import tikDownThumbnail from "@/assets/images/tikdown-click.png";
-import shotiThumbnail from "@/assets/images/shoti-api.png";
-import pThumbnail from "@/assets/images/modern-portfolio.png";
-import wThumbnail from "@/assets/images/weather-app.png";
-import ssThumbnail from "@/assets/images/speedsnippet.png";
-import shortRL from '@/assets/images/66d27b27db96c20eee11cb64.jpg'
-import niceTea from '@/assets/images/66d27b4c2cfc1553347c73cf.jpg'
+import country from "@/assets/images/country.png";
+import form from "@/assets/images/form.png";
+import miw from "@/assets/images/miw.png";
+import password from "@/assets/images/password.png";
+import ps from "@/assets/images/ps.png";
 
 
 export default function Projects() {
@@ -23,92 +21,74 @@ export default function Projects() {
         </header>
         <div className="mx-7 md:mx-10 flex justify-center items-center flex-col md:flex-row md:flex-wrap mt-12 md:justify-start ">
         <Project
-            title="SpeedSnippet ⚡"
-            description="A platform where you can share your code snippets or ask a question, it is designed to help other developers."
-            image={ssThumbnail}
+            title="Problem Solving Platform"
+            description="A platform for a scientific club where it's set for a competition"
+            image={ps}
             link="https://speedsnippet.xyz"
-            repo="https://github.com/libyzxy0/SpeedSnippet"
+            repo="https://github.com/fmyacine/problem-solving"
             langs={[
               "React",
               "Tailwindcss", 
-              "TypeScript", 
-              "ShadcnUI", 
-              "Supabase"
+              "Django", 
+              "Docker", 
+              "MySQL"
             ]}
           />
         <Project
-            title="ShortRL" 
-            description="Easy to use URL Shortener, paste your link and get shortened one."
-            image={shortRL}
+            title="Conference Event Ticket Booking system" 
+            description="A web application for a conference event for a scientific club that provide ticket booking system."
+            image={miw}
             link="https://shortrl.libyzxy0.com"
-            repo="https://github.com/libyzxy0/url-shortener"
+            repo="https://github.com/fmyacine/problem-solving"
             langs={[
-              "React",
-              "Tailwindcss", 
-              "TypeScript", 
-              "Node.js",
-              "Express"
+              "Html",
+              "Css", 
+              "JavaScript", 
+              "Bootstrap",
+              "Flask",
+              'SQLite3',
+              'Google Dev Tools'
             ]}
           />
         <Project
-            title="Nice Tea"
-            description="Simple Milktea shop showcasing MilkTea products."
-            image={niceTea}
+            title="Registeration Form"
+            description="A Web application for registerations and filtering the candidates."
+            image={form}
             link="https://nicetea.vercel.app"
-            repo="https://github.com/libyzxy0/nicetea"
+            repo="https://github.com/fmyacine/CDECFORM"
             langs={[
-              "React",
-              "Tailwindcss", 
-              "TypeScript"
+              "Html",
+              "Css", 
+              "JavaScript", 
+              "Bootstrap",
+              "Flask",
+              'SQLite3',
+              'Google Dev Tools'
             ]}
           />
           <Project
-            title="TikDown.click"
-            description="A website where you can download tiktok videos without watermark."
+            title="Countries-Wiki"
+            description="A simple countries website power by an API."
             link="https://tikdown.click"
-            repo="https://github.com/libyzxy0/tiktok-downloader"
-            image={tikDownThumbnail}
-            langs={["Vue", "JavaScript", "Tailwindcss", "Express", "Vercel"]}
+            repo="https://github.com/fmyacine/countries-app-api-based"
+            image={country}
+            langs={["Html",
+              "Css", 
+              "JavaScript", 
+              "Bootstrap",
+              "Flask"
+            ]}
           />
           <Project
-            title="Shoti API"
-            description="API that sends a lot of beautiful, cute, and hot girl tiktok videos."
-            image={shotiThumbnail}
+            title="Password Generator"
+            description="A basic app to generate strong passwords"
+            image={password}
             link="https://shoti-api.deno.dev"
-            repo="https://github.com/libyzxy0/shoti"
+            repo="https://github.com/fmyacine/CodeGenerator"
             langs={[
-              "Nuxt",
-              "JavaScript",
-              "Express",
-              "Node.js",
-              "Tailwindcss",
-              "MongoDB",
-            ]}
-          />
-          <Project
-            title="Modern Portfolio"
-            description="A modern portfolio using react, tailwindcss and shadcn ui."
-            image={pThumbnail}
-            link="https://libyzxy0.com"
-            repo="https://github.com/libyzxy0/modern-portfolio"
-            langs={[
-              "React",
-              "Tailwindcss", 
-              "TypeScript", 
-              "ShadcnUI"
-            ]}
-          />
-          <Project
-            title="Weather App"
-            description="A simple weather forecast website using React."
-            image={wThumbnail}
-            link="https://weather-app-beryl-five.vercel.app"
-            repo="https://github.com/libyzxy0/weather-app"
-            langs={[
-              "React",
-              "Tailwindcss", 
-              "TypeScript", 
-              "ShadcnUI"
+              "Html",
+              "Css", 
+              "JavaScript"
             ]}
           />
           

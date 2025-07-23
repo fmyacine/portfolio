@@ -14,17 +14,11 @@ export default function Education() {
           <div className="h-1 w-14 rounded-full bg-gradient-to-r from-sky-200 to-blue-400 md:w-20 md:h-2"></div>
         </header>
         <div className="mx-6 pt-8 md:mx-10">
-          <TimelineItem title="Elementary">
-            Studied Grade 1-6 at Balighot Elementary School (115550)
+          <TimelineItem title="Baccalureat Degree">
+            Obtained My Baccalureat Degree At 2022 In Math-technique Speciality at 15.27
           </TimelineItem>
-          <TimelineItem title="Junior High School">
-            Studied Grade 7 at Florentina B. Degala NHS (302404)
-          </TimelineItem>
-          <TimelineItem title="Junior High School">
-            Studied Grade 8-10 at Sto. Cristo National High School (307509)
-          </TimelineItem>
-          <TimelineItem title="Senior High School (ICT)">
-            Currently studying Information and Communications Technology at La Concepcion College
+          <TimelineItem title="License Degree">
+            Obtained My License Degree At 2025 In System informatique Speciality With Very Good Mention
           </TimelineItem>
         </div>
       </section>

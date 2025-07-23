@@ -43,9 +43,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
           
           <a className="text-sky-300" href={link}>{title}</a>
           <div className="flex flex-row">
-            <a href={link} className="text-white h-5 w-5 mr-4 hover:text-sky-300 transition-all duration-300">
-              <Icon icon="fluent:open-48-filled" />
-            </a>
+            
             <a href={repo} className="text-white hover:text-sky-300 transition-all duration-300">
               <Icon icon="fontisto:github" />
             </a>

@@ -16,7 +16,7 @@ export default function Contact() {
         <div className="mx-6 md:mx-10 mt-5 flex flex-col md:flex-row md:flex-wrap mb-3">
           <SlideAnimation>
           <a
-            href="mailto:janlibydelacosta@gmail.com"
+            href="mailto:fed.myacine@gmail.com"
             className="flex flex-row text-sky-300 items-center mt-5 mr-5"
           >
             <Icon className="h-16 w-16" icon="ic:baseline-email" />
@@ -24,43 +24,43 @@ export default function Contact() {
               <h1 className="text-white text-2xl font-bold mx-2">
                 Email
               </h1>
-              <p className="text-gray-400 mx-2">janlibydelacosta@gmail.com</p>
+              <p className="text-gray-400 mx-2">fed.myacine@gmail.com</p>
             </div>
           </a>
           </SlideAnimation>
           <SlideAnimation>
           <a
-            href="https://facebook.com/libyzxy0"
+            href="https://facebook.com/profile/fm.yacine"
             className="flex flex-row text-sky-300 items-center mt-5 mr-5"
           >
-            <Icon className="h-16 w-16" icon="logos:facebook" />
-            <div className="flex flex-col">
-              <h1 className="text-white text-2xl font-bold mx-2">Facebook</h1>
-              <p className="text-gray-400 mx-2">/libyzxy0</p>
-            </div>
-          </a>
-          </SlideAnimation>
-          <SlideAnimation>
-          <a
-            href="https://instagram.com/libyzxy0"
-            className="flex flex-row text-sky-300 items-center mt-5 mr-3"
-          >
-            <Icon className="h-16 w-16" icon="skill-icons:instagram" />
+            <Icon className="h-16 w-16" icon="skill-icons:instagram"/>
             <div className="flex flex-col">
               <h1 className="text-white text-2xl font-bold mx-2">Instagram</h1>
-              <p className="text-gray-400 mx-2">/@libyzxy0</p>
+              
             </div>
           </a>
           </SlideAnimation>
           <SlideAnimation>
           <a
-            href="https://linkedin.com/in/libyzxy0"
+            href="https://www.facebook.com/mohamed.yacine.fedlallah"
+            className="flex flex-row text-sky-300 items-center mt-5 mr-3"
+          >
+            <Icon className="h-16 w-16" icon="devicon:facebook" />
+            <div className="flex flex-col">
+              <h1 className="text-white text-2xl font-bold mx-2">Facebook</h1>
+              
+            </div>
+          </a>
+          </SlideAnimation>
+          <SlideAnimation>
+          <a
+            href="https://www.linkedin.com/in/mohamed-yacine-fedlallah/"
             className="flex flex-row text-sky-300 items-center mt-5 mr-3"
           >
             <Icon className="h-16 w-16" icon="skill-icons:linkedin" />
             <div className="flex flex-col">
               <h1 className="text-white text-2xl font-bold mx-2">Linkedin</h1>
-              <p className="text-gray-400 mx-2">/in/libyzxy0</p>
+              
             </div>
           </a>
           </SlideAnimation>

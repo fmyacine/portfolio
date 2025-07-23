@@ -16,33 +16,25 @@ export default function About() {
         <div className="mx-6 md:ml-10 md:mr-40 mt-8">
           <SlideAnimation>
             <p className="text-gray-400 font-[400] text-md mt-3">
-              I'm a 16-year-old full-stack web developer, mainly focusing on
-              frontend work, and I've been doing this for over two years now.
+              I'm a 20-years-old full-stack web developer, mainly focusing on
+              Backend work, and I've been doing this for over two years now.
             </p>
           </SlideAnimation>
           <SlideAnimation>
             <p className="text-gray-400 font-[400] text-md mt-3">
-              I've worked on lots of different projects, learning how to make
-              things run smoother and faster. I like working in busy places
-              where there's always something new to learn.
+              I'm a passionate full-stack developer with a strong focus on backend systems and automation.
+              Over the past few years, I’ve built advanced backend projects ranging from booking platforms to data-driven APIs — always with performance, scalability, 
+              and clean architecture in mind
             </p>
           </SlideAnimation>
           <SlideAnimation>
             <p className="text-gray-400 font-[400] text-md mt-3">
-              In the future, I'm excited to continue collaborating on exciting
-              projects with exceptional teams.{" "}
+              I’m currently diving deeper into AI-powered development, integrating intelligent systems into real-world applications that solve practical problems. Whether it’s predictive modeling or natural language processing, I enjoy building tools that think and adapt.
             </p>
           </SlideAnimation>
           <SlideAnimation>
             <p className="text-gray-400 font-[400] text-md mt-3">
-              My aim is to use my skills to make things better and faster,
-              especially on the frontend. As I keep going in my job, I want to
-              keep getting better, learning loads, and working with others.
-            </p>
-          </SlideAnimation>
-          <SlideAnimation>
-            <p className="text-gray-400 font-[400] text-md mt-3">
-              I'm all about doing my best and making a difference in tech.
+              Beyond code, I carry a strong sense of entrepreneurship. I love identifying problems, crafting digital solutions, and turning ideas into products. I'm not just here to build — I'm here to innovate.
             </p>
           </SlideAnimation>
         </div>
